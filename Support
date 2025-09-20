@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <title>الدعم الفني – مجلس قروي فقوعة الإلكتروني</title>
+  <style>
+    body { font-family: sans-serif; background: #f2f2f2; padding: 20px; }
+    .card { background: white; max-width: 600px; margin: auto; padding: 24px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+    h1, h2 { font-weight: bold; }
+    a { color: #0066cc; text-decoration: none; }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>الدعم الفني لتطبيق "مجلس قروي فقوعة الإلكتروني"</h1>
+
+    <h2>كيف نساعدك؟</h2>
+    <p>إذا واجهت أي مشكلة أثناء استخدام التطبيق أو كانت لديك أسئلة، يمكنك التواصل معنا من خلال:</p>
+    <ul>
+      <li>📧 البريد الإلكتروني الرسمي: 
+        <a href="mailto:faqquavillagecouncil@gmail.com">faqquavillagecouncil@gmail.com</a>
+      </li>
+      <li>👩‍💻 البريد الإلكتروني للمطورة: 
+        <a href="mailto:faizawildali@gmail.com">faizawildali@gmail.com</a>
+      </li>
+      <li>💬 عبر قسم الشكاوى داخل التطبيق.</li>
+    </ul>
+    <hr/>
+  </div>
+</body>
+</html>
